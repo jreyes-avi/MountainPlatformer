@@ -17,8 +17,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Level5","order":6,"path":"rooms/Level5/Level5.yy",},
-    {"name":"Level3","order":3,"path":"rooms/Level3/Level3.yy",},
     {"name":"EndScreen","order":7,"path":"rooms/EndScreen/EndScreen.yy",},
+    {"name":"Level3","order":10,"path":"rooms/Level3/Level3.yy",},
     {"name":"Level2","order":8,"path":"rooms/Level2/Level2.yy",},
     {"name":"Level4","order":4,"path":"rooms/Level4/Level4.yy",},
     {"name":"StartScreen","order":1,"path":"rooms/StartScreen/StartScreen.yy",},
