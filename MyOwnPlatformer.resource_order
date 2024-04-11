@@ -1,13 +1,4 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [
-    {"name":"sTried","order":3,"path":"sprites/sTried/sTried.yy",},
-    {"name":"sHarden","order":2,"path":"sprites/sHarden/sHarden.yy",},
-    {"name":"oBoots","order":1,"path":"objects/oBoots/oBoots.yy",},
-    {"name":"sBoots","order":1,"path":"sprites/sBoots/sBoots.yy",},
-    {"name":"sDash","order":4,"path":"sprites/sDash/sDash.yy",},
-    {"name":"oTired","order":4,"path":"objects/oTired/oTired.yy",},
-    {"name":"oHarden","order":3,"path":"objects/oHarden/oHarden.yy",},
-    {"name":"oDash","order":2,"path":"objects/oDash/oDash.yy",},
-  ],
+  "ResourceOrderSettings": [],
 }
